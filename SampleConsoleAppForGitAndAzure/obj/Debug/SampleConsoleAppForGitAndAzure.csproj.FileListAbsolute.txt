@@ -1,0 +1,7 @@
+E:\sony lap backup\d drive\Corp\Srushti\LTI-Dotnet-Online\DevOps-Day4\SampleConsoleAppForGitAndAzure\SampleConsoleAppForGitAndAzure\bin\Debug\SampleConsoleAppForGitAndAzure.exe.config
+E:\sony lap backup\d drive\Corp\Srushti\LTI-Dotnet-Online\DevOps-Day4\SampleConsoleAppForGitAndAzure\SampleConsoleAppForGitAndAzure\bin\Debug\SampleConsoleAppForGitAndAzure.exe
+E:\sony lap backup\d drive\Corp\Srushti\LTI-Dotnet-Online\DevOps-Day4\SampleConsoleAppForGitAndAzure\SampleConsoleAppForGitAndAzure\bin\Debug\SampleConsoleAppForGitAndAzure.pdb
+E:\sony lap backup\d drive\Corp\Srushti\LTI-Dotnet-Online\DevOps-Day4\SampleConsoleAppForGitAndAzure\SampleConsoleAppForGitAndAzure\obj\Debug\SampleConsoleAppForGitAndAzure.csprojAssemblyReference.cache
+E:\sony lap backup\d drive\Corp\Srushti\LTI-Dotnet-Online\DevOps-Day4\SampleConsoleAppForGitAndAzure\SampleConsoleAppForGitAndAzure\obj\Debug\SampleConsoleAppForGitAndAzure.csproj.CoreCompileInputs.cache
+E:\sony lap backup\d drive\Corp\Srushti\LTI-Dotnet-Online\DevOps-Day4\SampleConsoleAppForGitAndAzure\SampleConsoleAppForGitAndAzure\obj\Debug\SampleConsoleAppForGitAndAzure.exe
+E:\sony lap backup\d drive\Corp\Srushti\LTI-Dotnet-Online\DevOps-Day4\SampleConsoleAppForGitAndAzure\SampleConsoleAppForGitAndAzure\obj\Debug\SampleConsoleAppForGitAndAzure.pdb
